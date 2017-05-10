@@ -1,0 +1,11 @@
+{
+  "name": "object-list",
+  "version": "1.0.0",
+  "description": "utilities for working with a list of objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Douglas H. Bradshaw <dhbradshaw@gmail.com> (https://www.dougbradshaw.com)",
+  "license": "MIT"
+}
