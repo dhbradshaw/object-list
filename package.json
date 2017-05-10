@@ -1,5 +1,5 @@
 {
-  "name": "object-list",
+  "name": "dhbradshaw-object-list",
   "version": "1.0.0",
   "devDependencies": {
     "babel-cli": "^6.24.1",
